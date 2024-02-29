@@ -17,7 +17,7 @@
         <div>
             <form id="form" method="post" action="">
                 Insira um valor:<br />
-                <input id="texto" placeholder="0" maxlength = "10" type="text" name="valor">
+                <input id="campo" placeholder="0" maxlength="8" type ="text" name="valor">
                 <input id="enviar" type="submit" value="Enviar">
                 <?php
                 echo "<br>";
