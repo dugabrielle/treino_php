@@ -28,6 +28,7 @@
 #campo {
     border-radius: 5px;
     height: 1.6rem;
+    background-color: rgb(215, 194, 231);
 }
 
 #enviar {
@@ -36,5 +37,11 @@
     height: 1.6rem;
     border-radius: 5px;
     font-family: "Poppins", sans-serif;
-    font-weight: 400;
+    font-weight: 600;
+    background-color: rgb(215, 194, 231);
+}
+
+input#enviar:hover{
+    background-color: rgb(124, 33, 151);
+    transform: scale(1.1);
 }
