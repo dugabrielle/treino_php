@@ -24,7 +24,7 @@ body {
     border: 1px solid rgb(128, 18, 138);
     padding: 1.5rem;
     border-radius: 5px;
-    background: url("imagens/nebula.jpg");
+    background: url("../imagens/nebula.png.jpg");
     color: rgb(209, 190, 235);
 }
 
