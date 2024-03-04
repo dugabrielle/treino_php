@@ -3,6 +3,6 @@
 ##### Link do curso: https://www.udemy.com/course/boas-praticas-em-php
 
 ### Tabuada
-![iphone-capture](https://github.com/dugabrielle/treino_php/assets/121505858/4ddb3225-6e31-4ea6-b6fe-70ea8cd3f50f)
+![tabuada](https://github.com/dugabrielle/treino_php/assets/121505858/df9c7f01-ddf0-4f30-994f-c2c26ca6a088)
 
 
